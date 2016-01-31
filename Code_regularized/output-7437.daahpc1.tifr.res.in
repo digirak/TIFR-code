@@ -1,0 +1,145 @@
+start time:
+Wed Jan 13 11:50:19 IST 2016
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 1
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 2
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 3
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 4
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 5
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 6
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 7
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 8
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+Sum{acc_dtype=float64}.0
+completed training in epoch 9
+End time:
+Wed Jan 13 13:52:58 IST 2016
+[H[2J
