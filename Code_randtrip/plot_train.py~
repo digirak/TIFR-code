@@ -1,0 +1,7 @@
+import pandas as pd
+import plot_nn
+from plot_nn import plot_nn_fake
+import numpy as np 
+
+nu_max=np.arange(1980,3000,4)
+
