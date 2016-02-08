@@ -1,0 +1,528 @@
+start time:
+Fri Jan 29 16:13:22 IST 2016
+Sum{acc_dtype=float64}.0
+Sample 0 takes 65 s time
+Sum{acc_dtype=float64}.0
+Sample 1 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 2 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 3 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 4 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 5 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 6 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 7 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 8 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 9 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 10 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 11 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 12 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 13 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 14 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 15 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 16 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 17 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 18 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 19 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 20 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 21 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 22 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 23 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 24 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 25 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 26 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 27 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 28 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 29 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 30 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 31 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 32 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 33 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 34 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 35 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 36 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 37 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 38 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 39 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 40 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 41 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 42 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 43 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 44 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 45 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 46 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 47 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 48 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 49 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 50 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 51 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 52 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 53 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 54 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 55 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 56 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 57 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 58 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 59 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 60 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 61 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 62 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 63 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 64 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 65 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 66 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 67 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 68 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 69 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 70 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 71 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 72 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 73 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 74 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 75 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 76 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 77 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 78 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 79 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 80 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 81 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 82 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 83 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 84 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 85 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 86 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 87 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 88 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 89 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 90 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 91 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 92 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 93 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 94 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 95 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 96 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 97 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 98 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 99 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 100 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 101 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 102 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 103 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 104 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 105 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 106 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 107 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 108 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 109 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 110 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 111 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 112 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 113 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 114 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 115 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 116 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 117 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 118 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 119 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 120 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 121 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 122 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 123 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 124 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 125 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 126 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 127 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 128 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 129 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 130 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 131 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 132 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 133 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 134 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 135 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 136 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 137 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 138 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 139 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 140 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 141 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 142 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 143 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 144 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 145 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 146 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 147 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 148 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 149 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 150 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 151 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 152 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 153 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 154 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 155 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 156 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 157 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 158 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 159 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 160 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 161 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 162 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 163 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 164 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 165 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 166 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 167 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 168 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 169 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 170 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 171 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 172 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 173 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 174 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 175 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 176 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 177 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 178 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 179 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 180 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 181 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 182 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 183 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 184 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 185 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 186 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 187 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 188 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 189 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 190 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 191 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 192 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 193 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 194 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 195 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 196 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 197 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 198 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 199 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 200 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 201 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 202 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 203 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 204 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 205 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 206 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 207 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 208 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 209 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 210 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 211 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 212 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 213 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 214 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 215 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 216 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 217 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 218 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 219 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 220 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 221 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 222 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 223 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 224 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 225 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 226 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 227 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 228 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 229 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 230 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 231 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 232 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 233 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 234 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 235 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 236 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 237 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 238 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 239 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 240 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 241 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 242 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 243 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 244 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 245 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 246 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 247 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 248 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 249 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 250 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 251 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 252 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 253 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 254 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 255 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 256 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 257 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 258 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 259 takes 2 s time
+Sum{acc_dtype=float64}.0
+Sample 260 takes 2 s time
+Completed training in epoch 675 s
+End time:
+Fri Jan 29 16:24:43 IST 2016
+[H[2J
