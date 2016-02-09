@@ -1,0 +1,8 @@
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 1: import: command not found
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 2: from: command not found
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 3: import: command not found
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 4: import: command not found
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 5: import: command not found
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 12: import: command not found
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 19: syntax error near unexpected token `('
+/var/spool/torque/mom_priv/jobs/10791.daahpc1.tifr.res.in.SC: line 19: `cost=np.zeros(epochs)'

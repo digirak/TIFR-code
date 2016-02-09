@@ -1,0 +1,6 @@
+import run_train_func
+from run_train_func import train_func
+from memory_profiler import LogFile,profile
+import sys
+sys.stdout=LogFile('profile_run')
+train_func()

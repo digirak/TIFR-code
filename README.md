@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##How to run this code##
 There are two ways to run my code
 a) python run_train.py 
@@ -15,3 +16,6 @@ There are couple of other scripts like mem_test that will run with a memory prof
 from pip.
 
 Let me know if you would like that.
+=======
+# TIFR-code
+>>>>>>> b61d1f7893f602ebf7a89809849df1d67d28a719
