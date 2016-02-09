@@ -15,7 +15,7 @@ def run_train(nnparams=0):
     #cost=np.zeros(num_modes*nu_max.size)
     #cost=cost.reshape(num_modes,nu_max.size)
     import theano
-    nhidden=1000
+    nhidden=3000
     learn_rate=3e-3
     updts_old=nnparams
     epoch=0.
@@ -25,8 +25,8 @@ def run_train(nnparams=0):
     num_layers=1
     modes=np.arange(1,4)
     freqs=np.arange(1956,3000,4)
-    sig_noise=np.load('/home/rakesh/Data/Train_twins/sig_noise.npy')
-    sig=np.load('/home/rakesh/Data/Train_twins/sig.npy')
+    sig_noise=np.load('Data/Train_twins/sig_noise.npy')
+    sig=np.load('Data/Train_twins/sig.npy')
     sig_size=np.size(sig[0,:])
     sig_t=theano.shared(np.asarray(sig,dtype=theano.config.floatX),borrow=True)
     sig_noise_t=theano.shared(np.asarray(sig_noise,dtype=theano.config.floatX),borrow=True)

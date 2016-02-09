@@ -13,7 +13,7 @@ min_modes=12
 #cost=np.zeros(num_modes*nu_max.size)
 #cost=cost.reshape(num_modes,nu_max.size)
 import theano
-nhidden=1000
+nhidden=2000
 learn_rate=3e-3
 updts_old=0.
 epoch=0.
