@@ -1,0 +1,47 @@
+from test_dA import *
+import theano
+import numpy as np
+import os
+import sys
+import cPickle as cp
+from matplotlib import pyplot as plt
+sys.path.append("/home/rakesh/Gen_data/")
+import mince_meat
+from mince_meat import mince_data
+
+
+learning_rate=8e-4
+
+training_epochs=2000
+
+sig=np.load('/home/rakesh/Data/Othman_data/sig.npy') # ur training data
+sig_noise=np.load('/home/rakesh/Data/Othman_data/sig_noise.npy')
+batch_size=64 #
+
+
+for i in range(sig.shape[0]):
+    sig[i,:]/=np.max(sig[i,:])
+    sig_noise[i,:]/=np.max(sig_noise[i,:])
+nnparams=0.
+star_id_st=int(sys.argv[1])
+star_id_end=int(sys.argv[2])
+print("Star ids are %d to %d"%(star_id_st,star_id_end))
+chunk_size=150
+sig_chunk,sig_noise_chunk=mince_data(sig[star_id_st:star_id_end,:],sig_noise[star_id_st:star_id_end,:],chunk_size)
+chunks=np.size(sig_chunk[:,0])
+n_ins=np.size(sig_chunk[0,:])
+n_hidden=12000
+print("number of chunks is %d"%chunks)
+sig_t=theano.shared(np.asarray(sig_chunk,dtype=theano.config.floatX),borrow=True)
+sig_noise_t=theano.shared(np.asarray(sig_noise_chunk,dtype=theano.config.floatX),borrow=True)
+cost=[]
+ups=[]
+c,ups=test_dA(learning_rate, training_epochs,sig_t,sig_noise_t,chunks,batch_size=batch_size,n_ins=n_ins,n_hidden=n_hidden)
+cost.append(c)
+np.save("cost_darun.npy",cost)
+nnparams=ups
+path=os.getcwd()
+f=file(path+'/Results/nnparams_%d_to_%d.sav'%(star_id_st,star_id_end),'wb')
+cp.dump(nnparams,f,protocol=cp.HIGHEST_PROTOCOL)
+f.close()
+print 'done training the layer...'
